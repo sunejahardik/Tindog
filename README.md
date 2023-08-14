@@ -1,2 +1,1 @@
-# Tindog
-This project is totally responsive and completed using HTML,CSS
+TinDog Starting Files
